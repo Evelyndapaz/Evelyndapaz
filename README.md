@@ -18,6 +18,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/Evelyndapaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelyndapaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=BicjsUrlbU #Picrew #AmphyPop_Doll_Maker">
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=BicjsUrlbU #Picrew #AmphyPop_Doll_Maker">
 </div>
   
