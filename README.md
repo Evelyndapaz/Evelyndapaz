@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div align="center">
+  <div align="display: inline_block">
   <img align="left" alt="evy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
-</div>
-  
-<div align="center">
+  <div align="center">
   <a href="https://github.com/Evelyndapaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelyndapaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </div>
   
   
