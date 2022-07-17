@@ -21,11 +21,11 @@ Here are some ideas to get you started:
   </div>-->
   
   
-  <!--<div align="display: block">
+  <<div align="display: block">
   <a href="https://github.com/Evelyndapaz">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Evelyndapaz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=aura"/>
-</div>-->
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,14 +36,6 @@ Here are some ideas to get you started:
 </div>
 
 
-
-### 📊 Github Stats
-<a href='https://github.com/Evelyndapaz/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Evelyndapaz/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Evelyndapaz/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
   
   
