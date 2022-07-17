@@ -18,5 +18,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Evelyndapaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelyndapaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=dracula"/>-->
+    <img align="right" alt="evy-gif" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFGpDWafVU/wtDHVltog_Eo7a8tF-sTsQ/edit?utm_content=DAFGpDWafVU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 </div>
  
