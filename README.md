@@ -20,7 +20,9 @@ Here are some ideas to get you started:
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  <div align="center">
-    <img align="center" alt="evy-gif" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/998087456501006356/998087456501006359/998088164000415824?width=676&height=676">
-  </div>
+
+  
+  <div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/998087456501006356/998087456501006359/998088164000415824">
+</div>
  
