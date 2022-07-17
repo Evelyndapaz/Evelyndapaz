@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998088967125741599/download20220706231702.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
 </div>
   
   
