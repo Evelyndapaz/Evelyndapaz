@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=BicjsUrlbU #Picrew #AmphyPop_Doll_Makerwidth=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=BicjsUrlbU">
 </div>
   
