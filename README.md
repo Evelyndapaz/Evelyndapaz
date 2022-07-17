@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div style="center"><br>
-  <img align="right" alt="evy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
-</div>
+  <div style="center">
+  <img align="center" alt="evy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
+</div><br>
   
 <div align="center">
   <a href="https://github.com/Evelyndapaz">
