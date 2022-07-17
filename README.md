@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div align="display: block">
+  <!--<div align="display: block">
   <img align="right" alt="evy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
-  </div>
+  </div>-->
   <div align="display: block">
   <a href="https://github.com/Evelyndapaz">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Evelyndapaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
