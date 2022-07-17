@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
   <div align="center">
-  <img align="center" alt="evy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
+  <img align="left" alt="evy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
 </div><br>
   
 <div align="center">
