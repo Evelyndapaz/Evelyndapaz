@@ -32,19 +32,6 @@ Here are some ideas to get you started:
   <img alt="pic" height="150" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif">
   </div>
   
-  
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
-  
    <!--Cobrinha que come commit-->
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
     
