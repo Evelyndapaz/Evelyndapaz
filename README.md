@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### Em constante aprendizado sobre: 
 
   <div align="center">
-  <img alt="HTML" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="HTML" alingn="top" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
