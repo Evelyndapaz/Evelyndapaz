@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img alt="Js" align="top"height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">-->
+   ;&nbsp;
   <img alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif"/>
   <!--</div>-->
 
