@@ -1,4 +1,4 @@
-## Olá!. Seja bem vindx ✨
+###Olá!. Seja bem vindx ✨
 <!--
 **Evelyndapaz/Evelyndapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ##
-### Em constante aprendizado sobre: 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### Em constante aprendizado sobre: 
   <div align="center">
   <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="pic" height="150"  src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif"/>
   </div>
-  
+  :smile
    <!--Cobrinha que come commit-->
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
     
