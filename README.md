@@ -1,5 +1,5 @@
 ### Olá!. Seja bem vindx ✨
-##
+#
 
 <!--
 **Evelyndapaz/Evelyndapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
   
 ### Em constante aprendizado sobre:
-##
+#
   <div style="display: inline_block"><br>
   <img alt="HTML" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
