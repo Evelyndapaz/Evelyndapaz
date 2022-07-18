@@ -1,4 +1,4 @@
-###Olá!. Seja bem vindx ✨
+### Olá!. Seja bem vindx ✨
 <!--
 **Evelyndapaz/Evelyndapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -32,8 +32,3 @@ Here are some ideas to get you started:
    <!--Cobrinha que come commit-->
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
     
-   <!--Meu avatar/anime-->
-    <!--<div align="display: block">
-  <img align="right" alt="evy-pic" height="150" style="border-radius:50px; "src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
-  </div>-->
-  
