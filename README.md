@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
   
 #
-## Em constante aprendizado sobre: 
+#### Em constante aprendizado sobre: 
 
   <div align="center">
   <img alt="HTML" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
