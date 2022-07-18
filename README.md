@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
  ###Em constante aprendizado sobre:
   
-  <div style="display: inline_block">
+  <div style="display: inline_block"><br>
   <img alt="HTML" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
