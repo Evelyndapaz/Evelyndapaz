@@ -1,10 +1,7 @@
 ## Olá!. Seja bem vindx ✨
-
 <!--
 **Evelyndapaz/Evelyndapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,15 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <!--<div align="display: block">
-  <img align="right" alt="evy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
-  </div>-->
-  
-  
   <div align="center">
   <a href="https://github.com/Evelyndapaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelyndapaz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=aura"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=aura"/>-->
 </div>
 
 ##
@@ -33,13 +25,15 @@ Here are some ideas to get you started:
   <img alt="CSS" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" align="top"height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">-->
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="pic" height="150"  src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif"/>
-  <!--</div>-->
-
-   
+  </div>
   
+   <!--Cobrinha que come commit-->
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
+    
+   <!--Meu avatar/anime-->
+    <!--<div align="display: block">
+  <img align="right" alt="evy-pic" height="150" style="border-radius:50px; "src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">
+  </div>-->
   
- 
