@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 ##
 ### Em constante aprendizado sobre as seguintes linguagens e ferramentas: 
   <div align="center">
-  <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Js" align="top"height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Java" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Vscode" align="top" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Intellij" align="top" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></br></br>
-  <img alt="pic" align="left" height="150" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif">
+  <img alt="HTML" align="right" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" align="right" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Js" align="right"height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Java" align="right" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Vscode" align="right" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Intellij" align="right" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></br></br>
+  <img alt="pic" align="center" height="150" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif">
   </div>
 
    <!--Cobrinha que come commit-->
