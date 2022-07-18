@@ -29,6 +29,12 @@ Here are some ideas to get you started:
   <img alt="Js" align="top"height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
   <img alt="pic" height="150" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif">
   </div>
   
