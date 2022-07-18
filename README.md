@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">-->
 </div>
   
-  <div>
+ 
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
  
