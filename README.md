@@ -28,14 +28,12 @@ Here are some ideas to get you started:
 </div>
   
   ### Em constante aprendizado sobre:
-<div style="display: inline_block"><br>
   <img alt="HTML" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">-->
   <img alt="pic" align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif"/>
-</div>
   
   
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
