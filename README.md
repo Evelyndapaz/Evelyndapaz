@@ -1,4 +1,4 @@
-### Olá!. Seja bem vindx ✨
+## Olá!. Seja bem vindx ✨
 #
 
 <!--
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelyndapaz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" width="400em" style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=aura"/>-->
 </div>
-  
+
 #
-#### Em constante aprendizado sobre: 
+### Em constante aprendizado sobre: 
   <div align="center">
   <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img alt="Java" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">-->
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif"/>
+  <img alt="pic" height="150"  src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif"/>
   <!--</div>-->
 
    
