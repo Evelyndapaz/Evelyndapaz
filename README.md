@@ -21,24 +21,18 @@ Here are some ideas to get you started:
 </div>
  
 ##
-### Em constante aprendizado sobre: 
+### Em constante aprendizado sobre as seguintes linguagens e ferramentas: 
   <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" align="top"height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img alt="Java" align="top" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="pic" height="150" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif">
   </div>
-  
-Exemplo   | Valor do exemplo
---------- | ------
-Exemplo 1 | <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
-  
+
    <!--Cobrinha que come commit-->
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
     
