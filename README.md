@@ -26,9 +26,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelyndapaz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" width="400em" style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=aura"/>-->
 </div>
-
- ##Em constante aprendizado sobre: 
-  #
+  
+##
+## Em constante aprendizado sobre: 
+##
   <div align="center">
   <img alt="HTML" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
