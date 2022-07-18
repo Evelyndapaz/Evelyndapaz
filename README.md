@@ -29,8 +29,7 @@ Here are some ideas to get you started:
   
 #
 #### Em constante aprendizado sobre: 
-
-  <div align="center">
+  <div align="top">
   <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" align="top"height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
