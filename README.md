@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 </div>
  
 ##
-### Em constante aprendizado sobre: 
-  <div align="center">
+### Em constante aprendizado sobre: <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="pic" height="150" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif">
   </div>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  
 Exemplo   | Valor do exemplo
 --------- | ------
 Exemplo 1 | <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
