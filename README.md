@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img alt="Vscode" align="top" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="Intellij" align="top" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="pic" height="150" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif">
+  <img alt="pic" align="right" height="150" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif">
   </div>
 
    <!--Cobrinha que come commit-->
