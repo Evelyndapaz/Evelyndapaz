@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 </div>
   
  ###Em constante aprendizado sobre: 
+  {:.foo}
   ![Html](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
   <!--<div style="display: inline_block"><br>-->
   <img alt="HTML" align="justify" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -37,6 +38,10 @@ Here are some ideas to get you started:
   <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998098966086430761/myavatar.png">-->
   <img alt="pic" align="left" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif"/>
   <!--</div>-->
+  .foo {
+  text-align: center;
+  width: 40;
+}
    
   
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
