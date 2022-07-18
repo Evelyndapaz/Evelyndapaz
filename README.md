@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
 Exemplo   | Valor do exemplo
 --------- | ------
-Exemplo 1 | R$ 10
+Exemplo 1 | <img alt="HTML" align="top" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 Exemplo 2 | R$ 8
 Exemplo 3 | R$ 7
 Exemplo 4 | R$ 8
