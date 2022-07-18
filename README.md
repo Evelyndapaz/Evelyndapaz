@@ -27,9 +27,8 @@ Here are some ideas to get you started:
   <!--<img height="180em" width="400em" style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyndapaz&layout=compact&langs_count=7&theme=aura"/>-->
 </div>
   
- ##
- ###Em constante aprendizado sobre:
-
+### Em constante aprendizado sobre:
+##
   <div style="display: inline_block"><br>
   <img alt="HTML" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" align="center" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
