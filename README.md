@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="pic" height="150"  src="https://cdn.discordapp.com/attachments/998087456501006359/998611132891799642/giphy.gif"/>
   </div>
-  :smile
+  
    <!--Cobrinha que come commit-->
    ![Snake animation](https://github.com/Evelyndapaz/Evelyndapaz/blob/output/github-contribution-grid-snake.svg)
     
